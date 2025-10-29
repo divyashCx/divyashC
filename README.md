@@ -54,7 +54,7 @@ Founder of **ByteTech Labs** — crafting digital ecosystems combining modern we
 
 ### $ stats --github
 <!--STATS:START-->
-Repos: {{REPOS}}  |  Contributed Repos: {{CONTRIBS}}  
-Stars: {{STARS}}  |  Followers: {{FOLLOWERS}}  
-Commits (last 12 months): {{COMMITS_12M}}
+Repos: 81  |  Contributed Repos: 37  
+Stars: 3  |  Followers: 15  
+Commits (last 12 months): 1,414
 <!--STATS:END-->
