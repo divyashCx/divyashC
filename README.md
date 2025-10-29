@@ -9,7 +9,7 @@
 ────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 OS: .................... macOS / iOS  
-Uptime: ................ {{AGE}}  
+Uptime: ................ 22 years, 10 months, 17 days  
 Host: .................. ByteTech Labs  
 Kernel: ................ Full-Stack Developer & IT Consultant  
 IDE: ................... VS Code  
@@ -30,11 +30,11 @@ Contact.LinkedIn: ...... https://linkedin.com/in/divyashC
 Contact.GitHub: ........ https://github.com/divyashC  
 Contact.Website: ....... https://bytetechlabs.com  
 
-GitHub.Repos: .......... {{REPOS}}  
-GitHub.Contributed: .... {{CONTRIBS}}  
-GitHub.Stars: .......... {{STARS}}  
-GitHub.Followers: ...... {{FOLLOWERS}}  
-GitHub.Commits(12m): ... {{COMMITS_12M}}  
+GitHub.Repos: .......... 81  
+GitHub.Contributed: .... 37  
+GitHub.Stars: .......... 3  
+GitHub.Followers: ...... 15  
+GitHub.Commits(12m): ... 1,415  
 
 ────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 ```
