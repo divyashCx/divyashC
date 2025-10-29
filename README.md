@@ -8,33 +8,33 @@
 </pre>
 
 **divyash@bytetechlabs** ————————————————————————————————————————————————
-`OS:` macOS / Linux / Android  
+`OS:` macOS / iOS
 `Uptime:` {{AGE}}  
 `Host:` ByteTech Labs, Bhutan  
 `Kernel:` Full-Stack & Infrastructure Consultant  
-`IDE:` VS Code / Docker / Vercel / Figma  
+`IDE:` VS Code / Docker / Figma  
 
 ---
 
 ### ABOUT ME
-Versatile full-stack developer and IT consultant delivering scalable software and infrastructure across Bhutan. Founder of **ByteTech Labs**. Experience spans Next.js platforms, CMS integrations, office/retail IT, and smart networking (Wi-Fi/VLAN/Starlink, IP-PBX, CCTV). Projects include **Parliament of Bhutan** sites and **Innovate for GMC** portal and infra.
+Full-stack developer and IT consultant delivering scalable software and infrastructure solutions across Bhutan. Founder of **ByteTech Labs** — specializing in modern web applications, mobile apps, IT systems, and automation for businesses and organizations.
 
 ---
 
 ### SKILLS
 **Frontend:** Next.js, React, TypeScript, Tailwind, Payload/Headless CMS  
 **Backend:** Node.js, Express, MongoDB, ASP.NET, REST APIs  
-**Infra & IT:** Networking (LAN/VLAN/Mesh), Starlink, IP-PBX, CCTV, POS/retail setups  
-**Tools:** Docker, Vercel, Cloudflare, AWS/Azure basics, Google Workspace/M365, GitHub Actions
+**Infra & IT:** Networking (LAN/VLAN/Mesh), Starlink, IP-PBX, CCTV, POS/Retail Systems  
+**Tools:** Docker, Vercel, Cloudflare, AWS/Azure basics, Google Workspace/M365, GitHub Actions  
 
 ---
 
-### PROJECT HIGHLIGHTS
-`Innovate for GMC` — Multi-dashboard portal with medical/admin flows and infra support.  
-`Parliament Websites` — Four official CMS-driven sites with hosting & maintenance.  
-`Tamu Shipping` — Google Sheets + Apps Script automation for ops.  
-`BBS3 Network` — VLAN-segmented Wi-Fi and CCTV deployment.  
-`Smart Retail` — POS systems with scanners, printers, signage & support.
+### PROJECTS & DOMAINS
+- Web & mobile app development (Next.js, React Native, Flutter)
+- Corporate & brand websites (CMS-integrated, optimized for SEO)
+- Networking & infrastructure (LAN/Wi-Fi/VLAN/Starlink/IP-PBX)
+- CCTV surveillance & smart office automation
+- IT consulting, system deployment, and technical maintenance
 
 ---
 
@@ -42,7 +42,7 @@ Versatile full-stack developer and IT consultant delivering scalable software an
 `Email:` divyashchhetri@gmail.com  
 `LinkedIn:` https://linkedin.com/in/divyashC  
 `GitHub:`  https://github.com/divyashC  
-`Website:` https://bytetechlabs.com
+`Website:` https://bytetechlabs.com  
 
 ---
 
