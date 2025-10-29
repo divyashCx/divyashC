@@ -9,7 +9,7 @@
 
 **divyash@bytetechlabs** ————————————————————————————————————————————————
 `OS:` macOS / iOS
-`Uptime:` {{AGE}}  
+`Uptime:` 22 years, 10 months, 17 days  
 `Host:` ByteTech Labs, Bhutan  
 `Kernel:` Full-Stack Developer & IT Consultant  
 `IDE:` VS Code / Docker / Figma  
@@ -48,9 +48,9 @@ Full-stack developer and IT consultant delivering scalable software and infrastr
 
 ### GITHUB METRICS
 <!--STATS:START-->
-Repos: {{REPOS}}  |  Contributed Repos: {{CONTRIBS}}  
-Stars: {{STARS}}  |  Followers: {{FOLLOWERS}}  
-Commits (last 12 months): {{COMMITS_12M}}
+Repos: 81  |  Contributed Repos: 37  
+Stars: 3  |  Followers: 15  
+Commits (last 12 months): 1,413
 <!--STATS:END-->
 
 _Updated automatically via GitHub Actions daily at 00:00 Bhutan (UTC+6)._
