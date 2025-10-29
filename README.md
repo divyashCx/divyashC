@@ -11,7 +11,7 @@
 `OS:` macOS / iOS
 `Uptime:` {{AGE}}  
 `Host:` ByteTech Labs, Bhutan  
-`Kernel:` Full-Stack & Infrastructure Consultant  
+`Kernel:` Full-Stack Developer & IT Consultant  
 `IDE:` VS Code / Docker / Figma  
 
 ---
