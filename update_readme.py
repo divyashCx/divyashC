@@ -22,12 +22,12 @@ def gql(query, variables=None):
 
 
 # ---------- Uptime from DOB ----------
-def get_age_from_dob(dob):
-    delta = relativedelta.relativedelta(datetime.date.today(), dob)
-    def unit(n, w): return f"{n} {w}{'' if n == 1 else 's'}"
-    return f"{unit(delta.years, 'year')}, {unit(delta.months, 'month')}, {unit(delta.days, 'day')}"
+# def get_age_from_dob(dob):
+#     delta = relativedelta.relativedelta(datetime.date.today(), dob)
+#     def unit(n, w): return f"{n} {w}{'' if n == 1 else 's'}"
+#     return f"{unit(delta.years, 'year')}, {unit(delta.months, 'month')}, {unit(delta.days, 'day')}"
 
-DOB = datetime.date(2002, 12, 12)
+# DOB = datetime.date(2002, 12, 12)
 
 
 # ---------- GitHub Stats ----------
@@ -78,7 +78,7 @@ def get_stats(login: str):
         "FOLLOWERS": followers,
         "COMMITS_12M": commits12m,
         "CONTRIBS": contrib_repos,
-        "AGE": get_age_from_dob(DOB),
+        # "AGE": get_age_from_dob(DOB),
     }
 
 
