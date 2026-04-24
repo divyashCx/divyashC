@@ -29,11 +29,5 @@ Contact.LinkedIn: ...... https://linkedin.com/in/divyashC
 Contact.GitHub: ........ https://github.com/divyashC  
 Contact.Website: ....... https://bytetechlabs.com  
 
-GitHub.Repos: .......... 81  
-GitHub.Contributed: .... 37  
-GitHub.Stars: .......... 3  
-GitHub.Followers: ...... 15  
-GitHub.Commits(12m): ... 1,415  
-
 ────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 ```
