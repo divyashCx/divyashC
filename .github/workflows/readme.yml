@@ -2,10 +2,10 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # 00:00 Bhutan (UTC+6) == 18:00 UTC previous day
+    - cron: "0 18 * * *" # 00:00 Bhutan (UTC+6) == 18:00 UTC previous day
   workflow_dispatch:
   push:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install deps
         run: pip install requests python-dateutil
